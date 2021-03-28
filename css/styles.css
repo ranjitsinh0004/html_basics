@@ -1,0 +1,23 @@
+
+body{
+  background-color: powderblue;
+}
+
+hr{
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: gray;
+  /* width of the border */
+  border-width: 5px;
+  /* width of hr i.e horizontal line 30% which is DYNAMIC and changes as the 
+  screen size changes i.e if you go on minimizing the browser horizontal line will
+  be 30% of that height if you are hitting the page on tablet or mobile 
+  horizontal line will be 30% always */
+  width: 30%;
+}
+
+
+h1 {
+    color: green;
+  }
